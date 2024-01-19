@@ -62,6 +62,7 @@ Inside the K1LL0S RAT Server, head over to the "Builder" tab, select your custom
 -	Uninstall
   
 <h2>Power</h2>
+
 -	Shutdown
 -	Restart
 
