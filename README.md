@@ -1,4 +1,6 @@
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 <h1>K1LL0S RAT</h1>
+
 K1LL0S RAT is a remote access tool (RAT) that is used to control a computer remotely. It is written in C# and is compatible with Windows 10, 11. It is meant to stable, completely open source, easy to use and has a lot of features.
 
 <h2>What sets K1LL0S RAT apart</h2>
